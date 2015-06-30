@@ -1,6 +1,6 @@
 {
   "name": "koa-use",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Overwrite koa's `use()`, add `Array` support.",
   "main": "index.js",
   "scripts": {
