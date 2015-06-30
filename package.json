@@ -1,0 +1,23 @@
+{
+  "name": "koa-use",
+  "version": "1.0.0",
+  "description": "Overwrite koa's `use()`, add `Array` support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "DEBUG=* node --harmony test"  
+  },
+  "author": "nswbmw",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nswbmw/koa-use"
+  },
+  "keywords": [
+    "koa",
+    "use"
+  ],
+  "devDependencies": {
+    "koa": "^0.21.0",
+    "tape": "^4.0.0"
+  }
+}
